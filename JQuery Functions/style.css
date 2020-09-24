@@ -1,0 +1,36 @@
+h1{
+    color:blue;
+}
+#showButton{
+    background-color:thistle;
+}
+#showText{
+    color: cornflowerblue;
+}
+#clickToHide{
+    background-color:thistle;
+}
+#hideParagraph{
+    color: rebeccapurple;
+}
+#toggle{
+    color: seagreen;
+}
+#coolFade{
+    background-color: thistle;
+}
+#cool{
+    width:400px;
+    height: 90px;
+}
+.highlight{
+    background-color: yellow;
+    padding: 10px;
+}
+#ddiv{
+    margin: 3px;
+    width: 80px;
+    display: none;
+    height: 80px;
+    float: left;
+}
